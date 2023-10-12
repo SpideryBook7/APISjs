@@ -1,4 +1,4 @@
-const url = "http://127.0.0.1:500/";
+const url = "http://127.0.0.1:5500/";
 
 console.log('Inicia Peticion 1');
 fetch(url + 'respuesta.txt')
